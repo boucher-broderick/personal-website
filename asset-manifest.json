@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49031b74.css",
+    "main.js": "/static/js/main.456376d6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/fampic.JPG": "/static/media/fampic.141bcb42b269914e063f.JPG",
+    "static/media/babybean.jpg": "/static/media/babybean.2b122cb25ba1ff2cd576.jpg",
+    "static/media/resume.pdf": "/static/media/resume.1e46c1a436b73a795bf8.pdf",
+    "static/media/logo.png": "/static/media/logo.dc174d27213e2fdbe000.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.49031b74.css.map": "/static/css/main.49031b74.css.map",
+    "main.456376d6.js.map": "/static/js/main.456376d6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49031b74.css",
+    "static/js/main.456376d6.js"
+  ]
+}
